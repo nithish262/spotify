@@ -1,0 +1,64 @@
+
+.main{
+    background-color: black;
+}
+.card{
+    background-color: #121212;
+    color: white;
+}
+.spo{
+width: 100px;
+}
+.play{
+    background-color: #242424;
+    
+}
+.search{
+    color: #A7A7A7;
+}
+.legal{
+    font-size: 10px;
+    padding: 10px;
+}
+.playlist{
+    font-weight: bold;
+}
+.play-sub{
+    font-size: 12px;
+    font-weight: bold;
+}
+.lisbut{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+.content{
+    color: #A7A7A7;
+    margin-right: 20px;
+}
+.icon{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+}
+.space{
+    margin-left: 10px;
+}
+.profile{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.profile-card{
+    background-color: #242424;
+}
+.header{
+    background-color: aliceblue;
+    height: 60px;
+}
+.artist{
+    color: #A7A7A7;
+}
+.card-body{
+    cursor: pointer;
+}
